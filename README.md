@@ -1,8 +1,13 @@
 <div align="center">
   <h1 align="center">Hi, I'm Miguel! 👋</h1>
-  <img src="images/chess_technology.jpg" alt="Mi equipo" height="200"/>
+  <img src="images/chess_technology.jpeg" alt="Mi equipo" height="250"/>
 </div>
 
+## About me
+
+- 📚 Mathematics
+- 📊 Data Scientist
+<br>
 
 <!--
 **miguelagues/miguelagues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
