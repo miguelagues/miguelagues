@@ -14,7 +14,7 @@
 <br>
 
 :technologist:
-- :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn](https://www.linkedin.com/in/miguel-ag%C3%BCes-cazorla-447a1a115/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [My LinkedIn](https://www.linkedin.com/in/miguelaguescazorla/).
 <br>
 
 ## 🛠️ My Skills
